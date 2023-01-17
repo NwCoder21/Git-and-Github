@@ -5,15 +5,15 @@ The aim of this repository is to document my learning of Git and Github.
 
 # Resources: 
 
-## To set fullscreen Windows on VirtualBox 
-
-https://youtu.be/OECOMT0vbZ0
-
----
-
 ## How to install Windows on VB
 
 https://youtu.be/sBzL_zoYt6o
+
+---
+
+## To set fullscreen Windows on VirtualBox 
+
+https://youtu.be/OECOMT0vbZ0
 
 ---
 
