@@ -5,6 +5,9 @@ The aim of this repository is to document my learning of Git and Github.
 
 # Resources: 
 
+* Codecademy
+* Udemy
+
 ## How to install Windows on VB
 
 https://youtu.be/sBzL_zoYt6o
